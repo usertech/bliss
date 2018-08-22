@@ -3,7 +3,7 @@ module.exports = {
     [
       '@neutrinojs/library',
       {
-        name: 'bliss'
+        name: '@usertech/bliss'
       }
     ]
   ]
