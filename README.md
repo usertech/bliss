@@ -26,5 +26,5 @@ Helper functions to generate [css-bliss](https://github.com/gilbox/css-bliss) cl
     <i className={be('Button', 'icon')} />
     // <i className="Button Button-icon" />
 
-    <button className={be('Button', 'icon', { red: true })} />
+    <i className={be('Button', 'icon', { red: true })} />
     // <i className="Button Button-icon--red" />
