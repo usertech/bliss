@@ -1,0 +1,17 @@
+{
+  "name": "@usertech/bliss",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start"
+  },
+  "devDependencies": {
+    "@neutrinojs/library": "^8.3.0",
+    "neutrino": "^8.3.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6"
+  }
+}
